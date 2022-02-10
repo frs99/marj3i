@@ -21,6 +21,13 @@ export default {
     BoxInfo,
     BoxDescription,
     CourseBox,
-  }
+  },
+  // mounted(){
+  //   window.onload = () => {
+  //     let navbar = document.querySelector('.navbar');
+  //     navbar.style.backgroundColor = "transparent";
+  //     console.log(navbar)
+  //   }
+  // },
 }
 </script>

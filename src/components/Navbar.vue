@@ -21,7 +21,7 @@
         <a class="a-support" href="https://marj3i.github.io/about/#support">
           <div class="support">
               <i class="fas fa-award" aria-hidden="true"></i>
-              <p>ادعمنا</p>
+              <p>إدعمنا</p>
           </div>
         </a>
         <div class="navbar">
