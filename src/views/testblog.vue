@@ -3,7 +3,7 @@
     <HeaderBlog title="عنوان للاختبار" info="وصف بسيط للاختبار" />
 
     <section class="all-cont">
-      <BlogText />
+      <BlogTest />
       <AsideTest />
     </section>
   </main>
@@ -11,12 +11,12 @@
 
 <script>
 import HeaderBlog from '../components/blog/HeaderBlog.vue';
-import BlogText from '../components/Courses/test/BlogText.vue';
+import BlogTest from '../components/Courses/test/BlogTest.vue';
 import AsideTest from '../components/Courses/test/AsideTest.vue';
 export default {
   components:{
     HeaderBlog,
-    BlogText,
+    BlogTest,
     AsideTest
   }
 }
