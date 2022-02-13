@@ -23,4 +23,9 @@ export default {
   @import './assets/css/home/stylehome.css';
   @import './assets/css/home/mediahome.css';
   
+  /* BLOG */
+  @import './assets/css/blog/style.blog.css';
+  @import './assets/css/blog/text.blog.css';
+  @import './assets/css/blog/media.blog.css';
+
 </style>
