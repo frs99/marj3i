@@ -1,5 +1,5 @@
 <template>
-  <a :href=link class="crs">
+  <a :href=link class="crs" target="_blank">
     <i class="fas fa-star top"></i>
     <img :src=img>
     <p>{{title}}</p>

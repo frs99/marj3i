@@ -10,6 +10,7 @@
 </template>
 
 <script>
+document.title = "test";
 import HeaderBlog from '../components/blog/HeaderBlog.vue';
 import BlogTest from '../components/Courses/test/BlogTest.vue';
 import AsideTest from '../components/Courses/test/AsideTest.vue';
@@ -21,3 +22,9 @@ export default {
   }
 }
 </script>
+
+<style>
+  .HeaderBackground{
+    /* background-image: url("../assets/img/background/background.jpg"); */
+  }
+</style>

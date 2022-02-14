@@ -10,6 +10,8 @@
 </template>
 
 <script>
+document.title = "تعلم البرمجة";
+// document.querySelector(".HeaderBackground").style.backgroundImage = "/assets/img/background/background.jpg"
 import HeaderBlog from '../components/blog/HeaderBlog.vue';
 import BlogProgramming from '../components/Courses/programming/BlogProgramming.vue';
 import AsideProgramming from '../components/Courses/programming/AsideProgramming.vue';
@@ -21,3 +23,9 @@ export default {
   }
 }
 </script>
+
+<style>
+  .HeaderBackground{
+    background-image: url("../assets/img/background/programming.jpg");
+  }
+</style>

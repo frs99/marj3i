@@ -1,5 +1,5 @@
 <template>
-  <a :href=link class="crs">
+  <a :href=link class="crs" target="_blank">
     <img :src=img>
     <p>{{title}}</p>
     <i :class=icon></i>
