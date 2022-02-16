@@ -2,7 +2,7 @@
   <footer>
     <section class="footer">
     <div class="logo2">
-      <img src="assets/img/logo.png">
+      <img src="/assets/img/logo.png">
     </div>
     <ul>
       <h1>المحتوى</h1>

@@ -38,13 +38,13 @@
         />
         <AddCourse
           link = "https://harmash.com/tutorials/algorithms/introduction"
-          img = "assets/img/icon-learn/harmash.jpg"
+          img = "/assets/img/icon-learn/harmash.jpg"
           title = "دورة خوارزميات نصية"
           icon = "fas fa-file-alt"
         />
         <AddCourse
           link = "https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp"
-          img = "assets/img/icon-learn/harmash.jpg"
+          img = "/assets/img/icon-learn/harmash.jpg"
           title = "دورة تراكيب البيانات"
           icon = "fas fa-play-circle"
         />
