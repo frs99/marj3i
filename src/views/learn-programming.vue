@@ -13,8 +13,8 @@
 document.title = "تعلم البرمجة";
 // document.querySelector(".HeaderBackground").style.backgroundImage = "/assets/img/background/background.jpg"
 import HeaderBlog from '../components/blog/HeaderBlog.vue';
-import BlogProgramming from '../components/Courses/programming/BlogProgramming.vue';
-import AsideProgramming from '../components/Courses/programming/AsideProgramming.vue';
+import BlogProgramming from '../components/Courses/learn-programming/BlogProgramming.vue';
+import AsideProgramming from '../components/Courses/learn-programming/AsideProgramming.vue';
 export default {
   components:{
     HeaderBlog,

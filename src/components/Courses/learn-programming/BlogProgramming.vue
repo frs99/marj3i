@@ -44,7 +44,7 @@
         />
         <AddCourse
           link = "https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp"
-          img = "/assets/img/icon-learn/harmash.jpg"
+          img = "/assets/img/icon-learn/data.jpg"
           title = "دورة تراكيب البيانات"
           icon = "fas fa-play-circle"
         />
