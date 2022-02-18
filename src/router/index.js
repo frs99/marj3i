@@ -18,6 +18,11 @@ const routes = [
     component: () => import('../views/learn-programming.vue')
   },
   {
+    path: '/learn-web',
+    name: 'learn-web',
+    component: () => import('../views/learn-web.vue')
+  },
+  {
     path: '/testblog',
     name: 'Test',
     component: () => import('../views/testblog.vue')
