@@ -1,23 +1,69 @@
-<div dir = "rtl">
-السلام عليكم و مرحبا بالجميع في موقع مرجعي
+# marj3i
 
-### ما هو مرجعي
-مرجعي هو ليس بموقعا الكترونيا رسميا او منظمة ما او مدونة تعليمية، مرجعي  في حقيقته الاولى هو تطبيق عملي قد قمت به لزيادة مهاراتي في الـ UX/UI و ايضا في برمجة الواجهات الأمامية لمواقع الويب.
+## Build Setup
 
-بجانب التطبيق اخترت ايضا ان يكون عاما لأنني قد اضفت بعض المحتوى المساعد لكل الاشخاص الذين يريدون البدأ في التعلم.
+```bash
+# install dependencies
+$ npm install
 
-فقد اضفت محتوى منظم لعدة مجالات تعليمية رقمية يمكن اتباعها و الإحتراف بها ومرفقة بالخطة و الترتيب الذي يعتمده الشخص مع مصادر تعلم بالعربية و اجنبية.
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-> يرجى العلم انه لم يتم تطبيق تقنيات رسمية او قوية بمرجعي، بل مجرد كود نظيف بدون اي مكتبات و مجرد فرونت اند.
+# build for production and launch server
+$ npm run build
+$ npm run start
 
-### حقوق النشر
-في مرجعي جميع المحتوى خاضع لحقوق النشر بما في ذلك :
-* الشعار: الشعار الموجود ليس اضافة فوضوية بل هو شعار رسمي لهذا المشروع الصغير.
-* التصميم: تصميم الموقع ليس تصميم منقول او واجهة فوضوية بل هو تطبيق رسمي لتصميم كامل من طرفي .
-* المحتوى: جميع المحتوى خاضع لأصحابه التي تم ذكرها في مرجعي .
+# generate static project
+$ npm run generate
+```
 
-**تخضع هذه الحقوق الى هذه الوثيقة :  [ حقوق النشر - FrsCodes](https://frscodes.github.io/copyright/)**
+For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
-للإتصال : **frscodes@gmail.com**
+## Special Directories
 
-</div>
+You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
+
+### `assets`
+
+The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
+
+### `components`
+
+The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
+
+### `layouts`
+
+Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
+
+
+### `pages`
+
+This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
+
+### `plugins`
+
+The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
+
+### `static`
+
+This directory contains your static files. Each file inside this directory is mapped to `/`.
+
+Example: `/static/robots.txt` is mapped as `/robots.txt`.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
+
+### `store`
+
+This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
