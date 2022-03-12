@@ -1,0 +1,82 @@
+<!-- HEADER FOR HEADER-->
+<section class="header">
+  <!-- LOGO -->
+  <div class="logo">
+    <img src="assets/img/logo.png">
+  </div>
+  <!-- LIST -->
+  <nav>
+    <ul class="headerList">
+        <li><a href="https://marj3i.github.io/">الرئيسية</a></li>
+        <li><a href="#info2">مانقدمه</a></li>
+        <li><a href="#">من نحن</a></li>
+    </ul>
+  </nav>
+  <!-- BUTTON SUPPORT -->
+  <a class="a-support" href="#">
+    <div class="support">
+        <i class="fas fa-award"></i>
+        <p>ادعمنا</p>
+    </div>
+  </a>
+  <!-- ICONS - NAVBAR FOR RESPONSIVE -->
+  <div class="navbar">
+    <i class="fas fa-bars"></i>
+    <i class="fas fa-times close"></i>
+  </div>
+</section>
+
+
+<!-- START FOOTER -->
+<footer>
+  <section class="footer">
+      <div class="logo2">
+        <img src="assets/img/logo.png">
+      </div>
+      <ul>
+        <h1>المحتوى</h1>
+        <li><a href="programming/">تعلم البرمجة</a></li>
+        <li><a href="#">الأمن المعلوماتي</a></li>
+        <li><a href="#">UX / UI بالعربية</a></li>
+        <li><a href="#">منتجات ادوبي</a></li>
+      </ul>
+      <ul>
+        <h1>الموقع</h1>
+        <li><a href="#">حول الموقع</a></li>
+        <li><a href="#">السياسة و الخصوصية</a></li>
+        <li><a href="#">للمساهمة او التطوير</a></li>
+        <li><a href="#">اتصل بنا</a></li>
+      </ul>
+      <ul>
+        <li><a href="#"><i class="fab fa-facebook-square"></i>فسيبوك</a></li>
+      </ul>
+  </section>
+  <section class="copyright">
+      <p>جميع الحقوق محفوظة - مرجعي 2021</p>
+  </section>
+</footer>
+
+
+
+<!--TH BOX FOR COURSE-->
+<div class="box-list-crs">
+  <div class="box-info-crs">
+    <h2></h2>
+    <p></p>
+    <p class="note2"></p>
+  </div>
+  <div class="all-crs">
+    <a href="" class="crs">
+      <img src="../assets/img/learn-programming">
+      <p></p>
+      <i class="fas fa-play-circle"></i>
+    </a>
+    <a href="" class="crs">
+      <img src="../assets/img/learn-programming">
+      <p></p>
+      <i class="fas fa-file-alt"></i>
+    </a>
+    <hr>
+  </div>
+</div>
+<!---->

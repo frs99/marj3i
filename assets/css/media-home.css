@@ -1,0 +1,192 @@
+@charset "utf-8";
+
+@media (max-width:1200px){
+    /* HEADER */
+    header{
+        background-image: url(../img/background/background-900px.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        overflow: hidden;
+    }
+    header .background{
+        display: none;
+    }
+    
+    header .main{
+        display: block;
+        width:95%;
+        text-align: center;
+        padding: 75px 0;
+    }
+    header .main .home-info a{
+        width:95%;
+        max-width:500px;
+        margin: 15px auto 0 auto;
+        background-color: #fff;
+        border: solid 2px #fff;
+        color: #33313b;
+        margin-top: 30px;
+        transition: all 0.2s;
+    }
+    header .main .home-img img{
+        width:85%;
+        position: relative;
+        top:50px;
+    }
+
+    /* Class Toggle */
+    header .header .openSupport{
+        right:0;
+    }
+    header .header .openList{
+        /*max-height:190px;*/
+        left: 0;
+    }
+    header .header .navbar .close{
+        display: none;
+    }
+    header .main .ux1{
+        opacity: 0;
+    }
+    /**********/
+
+    /* MAIN */
+    main .boxinfo article img{
+        width:125px;
+    }
+    main .boxinfo article p{
+        font-size:35px;
+    }
+    main .boxdescription .minbox{
+        display: block;
+        text-align: center;
+    }
+    main .boxdescription .minbox img{
+        width:80%;
+        max-width: 550px;
+        margin: 0;
+    }
+    main .boxdescription .minbox .minbox-info{
+        margin: 0;
+        margin-top: 30px;
+    }
+    main .boxdescription .minbox .minbox-info h1{
+        font-size: 40px;
+    }
+    main .boxdescription .minbox .minbox-info p{
+        font-size: 20px;
+    }
+
+    main .course-h1 h1{
+        text-align: center;
+        padding: 0;
+    }
+    main .content .content-course{
+        width: 100%;
+        margin: 0;
+    }
+    main .content .content-course{
+        display: block;
+        width: 100%;
+    }
+    main .content .content-course article{
+        margin:50px auto;
+        width: 90%;
+    }
+}
+
+@media (min-width:1700px){
+    header{
+        background-image: url(../img/background/background-900px.png);
+        background-position-y: -1px;
+        background-position-x: -3px;
+        background-repeat: no-repeat;
+        max-height: 1000px;
+    }
+    header .background{
+        width: 1477px;
+    }
+    header .header{
+        background-color: #33313b;
+        padding: 0 30px;
+        border-bottom: solid 1px #545060;
+    }
+    header .header ul li a{
+        padding: 25px 10px 24px 10px;
+    }
+    header .header ul li a:hover{
+        color: #fff;
+        background-color: #545060;
+    }
+    header .header .support{
+        background-color: #33313b;
+        color: #efaf32;
+        border: solid 2px #efaf32;
+    }
+    header .header .support:hover{
+        background-color: #fff;
+        color: #33313b;
+        border: solid 2px #fff;
+    }
+    header .background{
+        display: none;
+    }
+    header .main{
+        display: block;
+        text-align: center;
+    }
+    header .main .home-info h1{
+        font-size: 100px;
+    }
+    header .main .home-info .p1{
+        font-size:28px;
+        margin-top:30px;
+    }
+    header .main .home-info a{
+        width:500px;
+        margin: 30px auto 0 auto;
+        padding: 8px;
+        font-size: 20px;
+    }
+    header .main .home-img img{
+        width: 600px;
+        margin-top: 30px;
+    }
+    main .content .content-course article{
+      width:400px;
+      max-width:none;
+    }
+    main .content .content-course article .course-info h1{
+      font-size:40px;
+    }
+    main .content .content-course article .course-info p{
+      font-size:20px;
+    }
+    main .content .content-course article .course-info a{
+      padding: 8px 0;
+      font-size:22px;
+    }
+
+    footer .footer .logo2 img{
+      width:150px;
+    }
+    footer .footer ul h1{
+      font-size: 36px;
+    }
+    footer .footer ul li a{
+      font-size: 22px;
+    }
+    footer .copyright{
+      font-size: 18px;
+    }
+}
+
+@media(max-width: 330px){
+  header .main .home-info h1{
+      font-size: 70px;
+  }
+  header .main .home-info .p1{
+      font-size: 16px;
+  }
+}

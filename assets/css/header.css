@@ -1,0 +1,176 @@
+@charset "utf-8";
+
+*{
+    padding: 0px;
+    margin: 0px; 
+    box-sizing: border-box; 
+    list-style:none;
+    text-decoration: none;
+    -webkit-tap-highlight-color:transparent;
+}
+html{
+  scroll-behavior: smooth;
+}
+input:focus{
+  outline: none;
+}
+/* SCROLLBAR */
+::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 3px;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background-color: #efaf32;
+}
+
+   /* For mozila */
+  @-moz-document url-prefix() {}
+/**********************/
+
+body{
+  font-family: 'El Messiri', sans-serif !important;
+}
+
+/* START HEADER */
+header .header{
+  height:90px;
+  display: flex;
+  width: 95%;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+header .header .logo{
+  height: 40px;
+  margin: 25px 0;
+}
+header .header .logo img{
+  width:40px;
+  height: 40px;
+}
+header .header nav{
+  height: 24px;
+}
+header .header ul{
+  display: flex;
+  margin: 25px 0;
+}
+header .header nav{
+  height:0;
+}
+header .header ul li{
+  margin: 0 50px;
+}
+header .header ul li a{
+  font-size: 26px;
+  color: #efaf32;
+  transition: all 0.5s;
+}
+header .header .a-support{
+  height:47px;
+  margin: 21px 0;
+}
+header .header .support{
+  display: flex;
+  background-color: #fff;
+  padding: 7px 15px;
+  font-size: 20px;
+  align-items: center;
+  width: 115px;
+  justify-content: space-around;
+  height: 47px;
+  border-radius: 8px;
+  color: #33313b;
+  border: solid 2px #33313b;
+  transition: all 0.3s;
+}
+header .header .support:hover{
+  color: #efaf32;
+  background-color: #33313b;
+}
+/* NAVBAR */
+header .header .navbar{
+  visibility: hidden;
+  font-size: 35px;
+  color: #efaf32;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  margin: 27.5px 25px;
+}
+/**********/
+@media (max-width:1200px){
+  header .header{
+    display:block;
+    background-color: #33313b;
+    width: 100%;
+    position: relative;
+  }
+  header .header .logo{
+    display: inline-block;
+    margin: 25px;
+  }
+  header .header nav{
+    height: auto;
+  }
+  header .header ul{
+    display: block;
+    margin: 0;
+    position: absolute;
+    width: 100%;
+    top: 90px;
+    background-color: #33313b;
+    left: 100%;
+    overflow: hidden;
+    transition: all 0.5s;
+    z-index: 999;
+  }
+  header .header ul li{
+    margin: 10px auto;
+    width: 95%;
+    text-align: center;
+  }
+  header .header ul li a{
+    width: 100%;
+    display: inline-block;
+    padding: 5px 0;
+  }
+  header .header .a-support{
+    display: inline-block;
+    position: absolute;
+    margin:0;
+    top: 280px;
+    width:100%;
+    height: auto;
+    padding: 20px;
+    background-color: #33313b;
+    transition: all 0.5s ;
+    right: 100%;
+    border-bottom: solid 1px #545060;
+    z-index: 999;
+  }
+  header .header .support{
+    width:100%;
+    margin: 0 auto;
+    justify-content: center;
+  } header .header .support:hover{background-color: #fff; color: #33313b;}
+  header .header .support i{
+    margin-left: 10px;
+  }
+  header .header .navbar{
+    visibility: visible;
+  }
+  /* Class Toggle */
+  header .header .openSupport{
+    right:0;
+  }
+  header .header .openList{
+    /*max-height:190px;*/
+    left: 0;
+  }
+  header .header .navbar .close{
+    display: none;
+  }
+}
