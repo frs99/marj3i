@@ -6,7 +6,21 @@
     <!-- ARTICLE -->
     <section class="all-cont">
       <section class="all-text">
-        <nuxt-content :document="info" />
+        <!-- LIST FOC -->
+        <section class="toc">
+          <nav>
+            <ul>
+              <h1>قائمة المحتوى</h1>
+              <li v-for="link of info.toc" :key="link.id">
+                <a :href="`#${link.id}`">{{ link.text }}</a>
+              </li>
+            </ul>
+          </nav>
+        </section>
+        <!-- THE BLOG -->
+        <section class="content_blog">
+          <nuxt-content :document="info" />
+        </section>
       </section>
 
     <!-- FOR OTHER COURSES -->

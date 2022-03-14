@@ -25,7 +25,7 @@
         type="play"
       />
       <AddCourse 
-        link ="https://www.w3schools.com/assets/css/"
+        link ="https://www.w3schools.com/css/default.asp"
         img="w3schools.jpeg"
         title="مقدمة css - نصية"
         type="file"

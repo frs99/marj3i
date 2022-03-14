@@ -33,5 +33,6 @@
         :top=false
       />
     </div>
+    <EditBox />
   </div>
 </template>
