@@ -175,6 +175,40 @@ hr{
   font-size: 16px;
   margin-bottom: 0;
 }
+.to_next{
+  border: solid 1px #ededed;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding: 30px;
+  transition: all 0.5s;
+  margin: 15px 0;
+}
+.edit_page{
+  border: solid 1px #ededed;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding:10px;
+  transition: all 0.5s;
+  margin: 15px 0;
+}
+.to_next:hover, .edit_page:hover{background-color: #ededed; border: solid 1px #4f9ddd;}
+.to_next h1, .edit_page h1{
+  font-size: 22px;
+  margin-bottom: 0;
+  color: #33313b;
+}
+.to_next p, .edit_page p{
+  background-color: #33313b;
+  color:#efaf32;
+  border-radius: 6px;
+  padding: 3px 20px;
+  font-size: 16px;
+  margin-bottom: 0;
+}
 
 
 
@@ -213,5 +247,13 @@ hr{
   hr{
     width:80%;
     margin: 30px auto;
+  }
+  .to_next, .edit_page{
+    display: block;
+    text-align: center;
+  }
+  .to_next:active{background-color: #ededed; border: solid 1px #4f9ddd;}
+  .to_next h1, .edit_page h1{
+    margin-bottom: 20px;
   }
 }

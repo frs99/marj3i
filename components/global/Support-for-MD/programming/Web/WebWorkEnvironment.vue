@@ -12,5 +12,6 @@
         type="file"
       />
     </div>
+    <EditBox link="/programming/Web/WebWorkEnvironment.vue" />
   </div>
 </template>

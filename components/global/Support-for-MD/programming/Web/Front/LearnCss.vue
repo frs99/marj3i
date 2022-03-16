@@ -31,5 +31,6 @@
         type="file"
       />
     </div>
+    <EditBox link="/programming/Web/Front/LearnCss.vue" />
   </div>
 </template>

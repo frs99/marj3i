@@ -26,5 +26,6 @@
         type="support"
       />
     </div>
+    <EditBox link="/programming/Web/Front/LearnJavaScript.vue" />
   </div>
 </template>

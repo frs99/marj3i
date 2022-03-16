@@ -27,27 +27,13 @@
       <section class="other_courses">
         <h1 class="more">تصفح المزيد</h1>
         <div class="all_courses">
-          <Courses
-          img=""
-          title="مجرد نص"
-          info="مجرد نص"
-          link="/"
-          nameBtn="مجرد نص"
-          />
-          <Courses
+          <!-- <Courses
             img=""
             title="مجرد نص"
             info="مجرد نص"
             link="/"
             nameBtn="مجرد نص"
-          />
-          <Courses
-            img=""
-            title="مجرد نص"
-            info="مجرد نص"
-            link="/"
-            nameBtn="مجرد نص"
-          />
+          /> -->
         </div>
       </section>
     </section>

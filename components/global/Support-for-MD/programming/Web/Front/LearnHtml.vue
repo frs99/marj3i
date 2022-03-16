@@ -31,5 +31,6 @@
         type="play"
       />
     </div>
+    <EditBox link="/programming/Web/Front/LearnHtml.vue" />
   </div>
 </template>

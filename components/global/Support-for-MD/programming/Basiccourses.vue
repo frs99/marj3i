@@ -33,6 +33,6 @@
         :top=false
       />
     </div>
-    <EditBox />
+    <EditBox link="/programming/Basiccourses.vue" />
   </div>
 </template>

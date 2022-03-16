@@ -19,6 +19,11 @@ export default {
     BoxInfo,
     BoxDescription,
     CourseBox
+  },
+  head(){
+    return{
+      title: 'مرجعي'
+    }
   }
 }
 </script>
