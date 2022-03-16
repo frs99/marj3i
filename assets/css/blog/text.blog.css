@@ -124,6 +124,7 @@
 }
 .crs:hover{
   background-color: #ededed;
+  border: solid 1px #4f9ddd;
 }
 .crs img{
   width:35px;
