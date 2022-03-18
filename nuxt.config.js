@@ -6,7 +6,7 @@ export default {
   head: {
     title: 'marj3i',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ar'
     },
     meta: [
       { charset: 'utf-8' },
