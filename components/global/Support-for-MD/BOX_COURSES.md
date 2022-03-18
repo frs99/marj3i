@@ -12,6 +12,7 @@
         img=""
         title=""
         type=""
+        :top=""
       />
     </div>
     <EditBox link="" />

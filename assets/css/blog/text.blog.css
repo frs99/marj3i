@@ -176,7 +176,7 @@ hr{
   font-size: 16px;
   margin-bottom: 0;
 }
-.to_next{
+.to_next, .edit_page{
   border: solid 1px #ededed;
   border-radius: 8px;
   display: flex;
@@ -186,17 +186,7 @@ hr{
   transition: all 0.5s;
   margin: 15px 0;
 }
-.edit_page{
-  border: solid 1px #ededed;
-  border-radius: 8px;
-  display: flex;
-  justify-content: space-between;
-  align-content: center;
-  padding:10px;
-  transition: all 0.5s;
-  margin: 15px 0;
-}
-.to_next:hover, .edit_page:hover{background-color: #ededed; border: solid 1px #4f9ddd;}
+.to_next:hover, .edit_page:hover{background-color: #c4daee; border: solid 1px #4f9ddd;}
 .to_next h1, .edit_page h1{
   font-size: 22px;
   margin-bottom: 0;
