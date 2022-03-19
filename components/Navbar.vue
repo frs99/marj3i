@@ -14,7 +14,7 @@
                 <a href="/#info2">مانقدمه</a>
               </li>
               <li>
-                <a href="/about">من نحن</a>
+                <a href="/">من نحن</a>
               </li>
           </ul>
         </nav>
@@ -24,7 +24,7 @@
               <p>إدعمنا</p>
           </div>
         </a>
-        <div class="navbar">
+        <div class="navbar-icons">
           <i class="fas fa-bars" aria-hidden="true"></i>
           <i class="fas fa-times close" aria-hidden="true"></i>
         </div>

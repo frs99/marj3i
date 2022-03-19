@@ -247,4 +247,7 @@ hr{
   .to_next h1, .edit_page h1{
     margin-bottom: 20px;
   }
+  .toc a{
+    line-height:36px;
+  }
 }

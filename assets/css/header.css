@@ -60,7 +60,7 @@
   background-color: #33313b;
 }
 /* NAVBAR */
-.header .navbar{
+.navbar-icons{
   visibility: hidden;
   font-size: 35px;
   color: #efaf32;
@@ -139,7 +139,7 @@
   .header .support i{
     margin-left: 10px;
   }
-  .header .navbar{
+  .header .navbar-icons{
     visibility: visible;
   }
   /* Class Toggle */
@@ -150,7 +150,7 @@
     opacity: 1;
     pointer-events: all;
   }
-  .header .navbar .close{
+  .header .navbar-icons .close{
     display: none;
   }
 }
