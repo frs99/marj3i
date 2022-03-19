@@ -113,7 +113,7 @@ desc: إتبع الخطة من الاسفل
 
 لذلك نحن نوفر خطة للباك إند إند من هنا:
 
-<ToNext link="/programming/learn_web_back">
+<ToNext link="/programming/learn_web_back/">
 
 # إنتقل الى القسم الثاني من برمجة الويب
  برمجة الباك إند

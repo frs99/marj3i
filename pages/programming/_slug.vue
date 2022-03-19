@@ -12,7 +12,7 @@
             <ul>
               <h1>قائمة المحتوى</h1>
               <li v-for="link of info.toc" :key="link.id">
-                <a :href="`#${link.id}`">{{ link.text }}</a>
+                <a :href="`${info.path}/#${link.id}`">{{ link.text }}</a>
               </li>
             </ul>
           </nav>

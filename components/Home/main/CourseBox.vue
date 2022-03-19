@@ -8,7 +8,7 @@
         img="/assets/img/course-img1.png"
         title="تعلم البرمجة"
         info="تعريف بالبرمجة ومجالاتها مع خطة تعلم احترافية لكل مجال محدثة باستمرار."
-        link="/programming/tracks"
+        link="/programming/tracks/"
         nameBtn="تصفح المسارات"
       />
     </div>
