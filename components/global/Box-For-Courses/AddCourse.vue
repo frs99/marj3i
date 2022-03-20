@@ -17,7 +17,7 @@ export default {
     img:String,
     title:String,
     type:String,
-    top:Object
+    top:Boolean
   },
 }
 </script>
