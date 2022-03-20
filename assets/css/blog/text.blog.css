@@ -20,8 +20,18 @@
   color: #4f9ddd;
   font-size: 20px;
 } .src:hover{text-decoration: underline;}
+.all-text li{
+  list-style: disc;
+  margin-right: 25px;
+}
 .all-crs a {
   color: #33313b;
+}
+.all-text img{
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ededed;
+  border-radius: 6px;
 }
 .note{
   padding: 20px;

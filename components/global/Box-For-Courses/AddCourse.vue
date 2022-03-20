@@ -6,6 +6,7 @@
     <i v-if="type === 'file'" class="fas fa-file-alt"></i>
     <i v-else-if="type === 'play'" class="fas fa-play-circle"></i>
     <i v-else-if="type === 'support'" class="fas fa-life-ring"></i>
+    <i v-else-if="type === 'download'" class="fas fa-download"></i>
   </a>
 </template>
 

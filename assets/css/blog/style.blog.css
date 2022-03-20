@@ -71,6 +71,10 @@ main .all-cont .all-text{
 .toc a{
   font-size: 18px !important;
 }
+.toc li{
+  list-style: none !important;
+  margin-right: 0 !important;
+}
 .toc li::before{
   color: #4f9ddd;
   content: "\2022";

@@ -95,8 +95,9 @@ desc: إتبع الخطة من الاسفل
 <LearnFramework></LearnFramework>
 
 <ToLink link="https://roadmap.sh/frontend">
-<h1>حمل الخطة المفصلة من هنا ...</h1>
-<p>Frontend Developer</p>
+
+# حمل الخطة المفصلة من هنا ...
+Frontend Developer
 
 </ToLink>
 
@@ -108,8 +109,9 @@ desc: إتبع الخطة من الاسفل
 لذلك نحن نوفر خطة للباك إند من هنا:
 
 <ToNext link="/programming/learn_web_back/">
-<h1>إنتقل الى القسم الثاني من برمجة الويب</h1>
-<p>برمجة الباك إند</p>
+
+# إنتقل الى القسم الثاني من برمجة الويب
+برمجة الباك إند
 
 </ToNext>
 
@@ -119,7 +121,8 @@ desc: إتبع الخطة من الاسفل
 </Note>
 
 <ToLink link="https://github.com/marj3i/marj3i.github.io/blob/main/content/programming/learn_web_front.md">
-<h1>هل وجدت اي خطأ في الصفحة؟</h1>
-<p>ساهم بالتعديل على Githab</p>
+
+# هل وجدت اي خطأ في الصفحة؟
+ساهم بالتعديل على Githab
 
 </ToLink>
