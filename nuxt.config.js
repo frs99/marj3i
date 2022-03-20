@@ -1,10 +1,6 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  router: {
-    base: '/'
-  },
-
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'marj3i',
@@ -15,7 +11,10 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+      { name:'theme-color', content:'#33313b' },
+      { name: 'msapplication-navbutton-color', content: '#33313b' },
+      { name:'apple-mobile-web-app-status-bar-style', content:'#33313b' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -62,5 +61,6 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    publicPath: '/nuxt/'
   }
 }

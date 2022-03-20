@@ -1,5 +1,5 @@
 //DIV FOR ICON - NAVBAR
-var navbarIcon = document.querySelector('.navbar');
+var navbarIcon = document.querySelector('.navbar-icons');
 var forOpen = document.querySelector('.fa-bars');
 var forClose = document.querySelector('.fa-times');
 //LIST UL
