@@ -6,6 +6,20 @@
     />
     <div class="all-crs">
       <AddCourse 
+        link ="https://kotlinlang.org/docs/home.html"
+        img="kotlin-hero.svg"
+        title="مستندات كوتلين"
+        type="file"
+        :top="true"
+      />
+      <AddCourse 
+        link ="https://developer.android.com/kotlin/campaign/learn"
+        img="kotlin-hero.svg"
+        title="تعلم من جوجل"
+        type="file"
+        :top="true"
+      />
+      <AddCourse 
         link ="https://developer.android.com/kotlin"
         img="kotlin-hero.svg"
         title="مستندات جوجل"

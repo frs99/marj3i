@@ -4,6 +4,9 @@
       title="تعلم أندرويد استوديو"
       info="برنامج من جوجل لبرمجة تطبيقات الاندرويد"
     />
+    <Note>
+      يرجى تصفح وثائق مطوري جوجل لانها افضل مرجع في هذه الصفحة
+    </Note>
     <div class="all-crs">
       <AddCourse 
         link ="https://developer.android.com/docs"
@@ -16,7 +19,7 @@
       <AddCourse 
         link ="https://developer.android.com/studio/intro"
         img="AndroidStudio.jpg"
-        title="مستندات جوجل"
+        title="مستندات اندرويد استوديو"
         type="file"
         :top="true"
       />
