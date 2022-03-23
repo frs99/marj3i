@@ -6,17 +6,17 @@
     </div>
     <ul>
       <h1>المحتوى</h1>
-      <li><a href="https://marj3i.github.io/programming/">تعلم البرمجة</a></li>
-      <li><a href="https://marj3i.github.io/information-security/">تعلم الأمن المعلوماتي</a></li>
-      <li><a href="https://marj3i.github.io/design/">تعلم التصميم</a></li>
-      <li><a href="https://marj3i.github.io/more/">كل المجالات</a></li>
+      <li><NuxtLink to="/programming/tracks/">تعلم البرمجة</NuxtLink></li>
+      <li><NuxtLink to="/information-security/Introduction/">تعلم الأمن المعلوماتي</NuxtLink></li>
+      <li><NuxtLink to="https://marj3i.github.io/design/">تعلم التصميم</NuxtLink></li>
+      <li><NuxtLink to="https://marj3i.github.io/more/">كل المجالات</NuxtLink></li>
     </ul>
     <ul>
       <h1>الموقع</h1>
-      <li><a href="https://marj3i.github.io/about/#about">حول الموقع</a></li>
-      <li><a href="https://marj3i.github.io/about/#policy">السياسة و الخصوصية</a></li>
-      <li><a href="https://marj3i.github.io/about/#support">للدعم او التطوير</a></li>
-      <li><a href="https://marj3i.github.io/about/#contact">اتصل بنا</a></li>
+      <li><NuxtLink to="https://marj3i.github.io/about/#about">حول الموقع</NuxtLink></li>
+      <li><NuxtLink to="https://marj3i.github.io/about/#policy">السياسة و الخصوصية</NuxtLink></li>
+      <li><NuxtLink to="https://marj3i.github.io/about/#support">للدعم او التطوير</NuxtLink></li>
+      <li><NuxtLink to="https://marj3i.github.io/about/#contact">اتصل بنا</NuxtLink></li>
     </ul>
 
     <ul class="">
