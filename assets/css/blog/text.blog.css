@@ -23,6 +23,10 @@
 .all-text li{
   list-style: disc;
   margin-right: 25px;
+  color: #33313b;
+}
+.all-text .nuxt-content ul{
+  margin-bottom: 15px;
 }
 .all-crs a {
   color: #33313b;

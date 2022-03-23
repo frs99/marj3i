@@ -11,6 +11,13 @@
         link="/programming/tracks/"
         nameBtn="تصفح المسارات"
       />
+      <Courses 
+        img="/assets/img/course-img2.png"
+        title="الأمن المعلوماتي"
+        info="تعريف و اهم المراحل للاحتراف في الشبكات و الامن المعلوماتي"
+        link="/information-security/Introduction/"
+        nameBtn="تصفح المراحل"
+      />
     </div>
   </section>
 

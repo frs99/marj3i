@@ -52,7 +52,7 @@ import HeaderBlog from '~/components/blog/HeaderBlog.vue'
 import Courses from '~/components/blog/Courses.vue'
 export default {
   async asyncData ({ $content, params }) {
-    const info = await $content('programming', params.slug).fetch()
+    const info = await $content('information-security', params.slug).fetch()
     return {
       info
     }
