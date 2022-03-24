@@ -63,3 +63,10 @@ desc: تصفح المسارات
 [إبدأ](/programming/learn_android/)
 
 </TagLink>
+
+<ToLink link="https://github.com/marj3i/marj3i.github.io/blob/main/content/programming/tracks.md">
+
+# هل وجدت اي خطأ في الصفحة؟
+ساهم بالتعديل على Githab
+
+</ToLink>
