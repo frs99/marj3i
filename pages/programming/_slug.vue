@@ -38,7 +38,7 @@
             img="/assets/img/course-img2.png"
             title="الأمن المعلوماتي"
             info="تعريف و اهم المراحل للاحتراف في الشبكات و الامن المعلوماتي"
-            link="/information-security/Introduction/"
+            link="/information-security/start/"
             nameBtn="تصفح المراحل"
           />
         </div>

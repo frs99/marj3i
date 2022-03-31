@@ -122,7 +122,9 @@ main .course-h1 h1{
 
 /* START BOX FOR COURSE */
 main .content .content-course{
-  display: flex;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 60px;
   width: 70%;
   flex-wrap: wrap;
   margin: 0 auto;
@@ -134,7 +136,6 @@ main .content .content-course article{
   width: 300px;
   max-width: 300px;
   border-radius: 8px;
-  margin: 50px 75px;
 }
 main .content .content-course article .course-img{
   height:222px;

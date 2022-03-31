@@ -7,16 +7,16 @@
     <ul>
       <h1>المحتوى</h1>
       <li><NuxtLink to="/programming/tracks/">تعلم البرمجة</NuxtLink></li>
-      <li><NuxtLink to="/information-security/Introduction/">تعلم الأمن المعلوماتي</NuxtLink></li>
-      <li><NuxtLink to="https://marj3i.github.io/design/">تعلم التصميم</NuxtLink></li>
-      <li><NuxtLink to="https://marj3i.github.io/more/">كل المجالات</NuxtLink></li>
+      <li><NuxtLink to="/information-security/start/">تعلم الأمن المعلوماتي</NuxtLink></li>
+      <li><NuxtLink to="#">تعلم التصميم</NuxtLink></li>
+      <li><NuxtLink to="#">كل المجالات</NuxtLink></li>
     </ul>
     <ul>
       <h1>الموقع</h1>
-      <li><NuxtLink to="https://marj3i.github.io/about/#about">حول الموقع</NuxtLink></li>
-      <li><NuxtLink to="https://marj3i.github.io/about/#policy">السياسة و الخصوصية</NuxtLink></li>
-      <li><NuxtLink to="https://marj3i.github.io/about/#support">للدعم او التطوير</NuxtLink></li>
-      <li><NuxtLink to="https://marj3i.github.io/about/#contact">اتصل بنا</NuxtLink></li>
+      <li><NuxtLink to="#">حول الموقع</NuxtLink></li>
+      <li><NuxtLink to="#">السياسة و الخصوصية</NuxtLink></li>
+      <li><NuxtLink to="#">للدعم او التطوير</NuxtLink></li>
+      <li><NuxtLink to="#">اتصل بنا</NuxtLink></li>
     </ul>
 
     <ul class="">
@@ -29,7 +29,18 @@
   </section>
 
   <section class="copyright" style="cursor: pointer;">
-    <p>جميع الحقوق محفوظة - مرجعي 2021</p>
+    <p v-on:click="openFrscodes">جميع الحقوق محفوظة - مرجعي - FrsCodes</p>
   </section>
   </footer>
 </template>
+
+<script>
+export default {
+  methods: {
+    openFrscodes: function(){
+      // window.location.href = "https://frscodes.github.io/"
+      open("https://frscodes.github.io/")
+    }
+  },
+}
+</script>

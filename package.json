@@ -6,7 +6,9 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "predeploy": "npm run generate",
+		"deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@nuxt/content": "^1.15.1",
