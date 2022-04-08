@@ -113,21 +113,7 @@ desc: تصفح المسار
 اياك: ان تبدا بدورات متقدمة وتسبق الخطوات
 </Alert>
 
-<TagLink>
-
-# 1 - مرحلة المبتدأ
-المرحلة الاولى للاساسيات
-
-[إبدأ](/information-security/beginner_level/)
-
-</TagLink>
-
-<ToLink link="https://github.com/marj3i/marj3i.github.io/blob/main/content/information-security/Introduction.md">
-
-# هل وجدت اي خطأ في الصفحة؟
-ساهم بالتعديل على Githab
-
-</ToLink>
+## مرحلة المبتدأ
 
 ## تعلم الـ IT
 
@@ -137,9 +123,13 @@ desc: تصفح المسار
 
 ## تعلم الـ CCNA
 
+## مرحلة المتوسط
+
 ## تعلم الـ +SECURITY
 
 ## تعلم الـ +NETWORK
+
+## مرحلة الخبير
 
 ## تعلم الـ LINUX
 
@@ -148,3 +138,10 @@ desc: تصفح المسار
 ## تعلم الـ CCNP
 
 ## تعلم الـ PYTHON
+
+<ToLink link="https://github.com/marj3i/marj3i.github.io/blob/main/content/information-security/Introduction.md">
+
+# هل وجدت اي خطأ في الصفحة؟
+ساهم بالتعديل على Githab
+
+</ToLink>

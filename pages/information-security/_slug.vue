@@ -71,6 +71,6 @@ export default {
 
 <style scoped>
   .HeaderBackground{
-    background-image: url('~/assets/img/background/programming.jpg');
+    background-image: url('~/assets/img/background/Information-security.jpg');
   }
 </style>
