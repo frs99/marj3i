@@ -113,31 +113,15 @@ desc: تصفح المسار
 اياك: ان تبدا بدورات متقدمة وتسبق الخطوات
 </Alert>
 
-## مرحلة المبتدأ
+<ToNext link="/information-security/learn-is/">
 
-## تعلم الـ IT
+# تصفح خطة التعلم الان
 
-## تعلم الـ +A
+البدأ
 
-## تعلم الـ OS
+</ToNext>
 
-## تعلم الـ CCNA
-
-## مرحلة المتوسط
-
-## تعلم الـ +SECURITY
-
-## تعلم الـ +NETWORK
-
-## مرحلة الخبير
-
-## تعلم الـ LINUX
-
-## تعلم الـ CEH
-
-## تعلم الـ CCNP
-
-## تعلم الـ PYTHON
+<hr>
 
 <ToLink link="https://github.com/marj3i/marj3i.github.io/blob/main/content/information-security/Introduction.md">
 
