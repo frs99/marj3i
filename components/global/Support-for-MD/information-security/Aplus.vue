@@ -7,7 +7,7 @@
     <div class="all-crs">
       <AddCourse 
         link ="https://www.youtube.com/playlist?list=PLiBRXSnNzUuqhJ767kWhkCHTV5h5j0i6G"
-        img="comptia.png"
+        img="youtube.jpg"
         title="دورة +A"
         type="play"
         :top="true"

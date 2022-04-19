@@ -23,6 +23,9 @@
     main .all-cont .other_courses .all_courses{
       display: block;
     }
+    .all-text h2{
+      font-size: 26px;
+    }
 }
 
 @media (min-width:1700px){

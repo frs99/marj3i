@@ -7,7 +7,7 @@
     <div class="all-crs">
       <AddCourse 
         link ="https://www.youtube.com/playlist?list=PLCIJjtzQPZJ9Fq0smoYKmwmukitmT9ssn"
-        img="it.jpeg"
+        img="youtube.jpg"
         title="دورة IT"
         type="play"
         :top="true"

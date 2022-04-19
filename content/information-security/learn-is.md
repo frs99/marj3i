@@ -2,6 +2,19 @@
 title: الأمن المعلوماتي
 desc: تصفح المسار
 ---
+## قبل البدأ
+
+ينصح بمشاهدة محتوى الخطة تفصيلا من هنا:
+
+<MapLearn></MapLearn>
+
+<Alert>
+  لا تستبق المراحل و لا الدورات
+</Alert>
+
+<Note>
+  يرجى الملاحظة انه قد لا تتوفر جميع الدورات المذكورة في محتوى خطة التعلم السابقة 
+</Note>
 
 ## 1 - مرحلة المبتدأ
 <hr>
@@ -38,11 +51,20 @@ desc: تصفح المسار
 
 ## تعلم الـ LINUX
 
+<Linux></Linux>
+
 ## تعلم الـ CEH
+
+<Ceh></Ceh>
 
 ## تعلم الـ CCNP
 
-## تعلم الـ PYTHON
+<Ccnp></Ccnp>
+
+<Note>
+  هذه خطة بسيطة وسيتم محاولة تحديثها اذا وجد تحديث لمعلومات اضافية
+</Note>
+<!-- ## تعلم الـ PYTHON -->
 
 <ToLink link="https://github.com/marj3i/marj3i.github.io/blob/main/content/information-security/learn-is.md">
 
