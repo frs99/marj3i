@@ -59,7 +59,7 @@ import HeaderBlog from '~/components/blog/HeaderBlog.vue'
 import Courses from '~/components/blog/Courses.vue'
 export default {
   async asyncData ({ $content, params }) {
-    const info = await $content('programming', params.slug).fetch()
+    const info = await $content('design', params.slug).fetch()
     return {
       info
     }
@@ -78,6 +78,6 @@ export default {
 
 <style scoped>
   .HeaderBackground{
-    background-image: url('~/assets/img/background/programming.jpg');
+    background-image: url('~/assets/img/background/design.jpg');
   }
 </style>

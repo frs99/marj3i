@@ -41,6 +41,13 @@
             link="/information-security/start/"
             nameBtn="تصفح المراحل"
           />
+          <Courses 
+            img="/assets/img/course-img2.png"
+            title="التصميم"
+            info="مفهوم التصميم و تعريف بكل مجال منه و البرامج"
+            link="/design/start/"
+            nameBtn="تصفح"
+          />
         </div>
       </section>
     </section>
