@@ -8,7 +8,7 @@
       <h1>المحتوى</h1>
       <li><NuxtLink to="/programming/tracks/">تعلم البرمجة</NuxtLink></li>
       <li><NuxtLink to="/information-security/start/">تعلم الأمن المعلوماتي</NuxtLink></li>
-      <li><NuxtLink to="#">تعلم التصميم</NuxtLink></li>
+      <li><NuxtLink to="/design/start/">تعلم التصميم</NuxtLink></li>
       <li><a href="/#courses">كل المجالات</a></li>
     </ul>
     <ul>

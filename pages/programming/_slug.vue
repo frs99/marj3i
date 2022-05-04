@@ -42,7 +42,7 @@
             nameBtn="تصفح المراحل"
           />
           <Courses 
-            img="/assets/img/course-img2.png"
+            img="/assets/img/course-img4.png"
             title="التصميم"
             info="مفهوم التصميم و تعريف بكل مجال منه و البرامج"
             link="/design/start/"
