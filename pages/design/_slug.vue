@@ -51,12 +51,14 @@
         </div>
       </section>
     </section>
+    <ToTop />
   </div>
 </template>
 
 <script>
 import HeaderBlog from '~/components/blog/HeaderBlog.vue'
 import Courses from '~/components/blog/Courses.vue'
+import ToTop from '~/components/ToTop.vue'
 export default {
   async asyncData ({ $content, params }) {
     const info = await $content('design', params.slug).fetch()
@@ -71,7 +73,8 @@ export default {
   },
   components:{
     HeaderBlog,
-    Courses
+    Courses,
+    ToTop
   }
 }
 </script>
