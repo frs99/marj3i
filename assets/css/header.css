@@ -130,6 +130,7 @@
     border-bottom: solid 1px #545060;
     z-index: 999;
     opacity: 0;
+    pointer-events: none;
   }
   .header .support{
     width:100%;
@@ -145,6 +146,7 @@
   /* Class Toggle */
   .header .openSupport{
     opacity: 1;
+    pointer-events: all;
   }
   .header .openList{
     opacity: 1;
