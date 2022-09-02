@@ -14,11 +14,11 @@
                 <a href="/#info2">مانقدمه</a>
               </li>
               <li>
-                <a href="/">من نحن</a>
+                <a href="https://github.com/marj3i/marj3i.github.io/blob/main/README.md">من نحن</a>
               </li>
           </ul>
         </nav>
-        <a class="a-support" href="https://marj3i.github.io/about/#support">
+        <a class="a-support" href="mailto:frscodes@gmail.com">
           <div class="support">
               <i class="fas fa-award" aria-hidden="true"></i>
               <p>إدعمنا</p>

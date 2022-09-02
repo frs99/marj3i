@@ -13,10 +13,10 @@
     </ul>
     <ul>
       <h1>الموقع</h1>
-      <li><NuxtLink to="#">حول الموقع</NuxtLink></li>
-      <li><NuxtLink to="#">السياسة و الخصوصية</NuxtLink></li>
-      <li><NuxtLink to="#">للدعم او التطوير</NuxtLink></li>
-      <li><NuxtLink to="#">اتصل بنا</NuxtLink></li>
+      <li><a href="https://github.com/marj3i/marj3i.github.io/blob/main/README.md">حول الموقع</a></li>
+      <li><a href="https://github.com/marj3i/marj3i.github.io/blob/main/README.md">السياسة و الخصوصية</a></li>
+      <li><a href="https://github.com/marj3i/marj3i.github.io/blob/main/README.md">للدعم او التطوير</a></li>
+      <li><a href="mailto:frscodes@gmail.com">اتصل بنا</a></li>
     </ul>
 
     <ul class="">

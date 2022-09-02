@@ -1,14 +1,12 @@
 {
   "name": "marj3i",
-  "version": "4.0.0",
+  "version": "4.3.0",
   "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
-    "predeploy": "npm run generate",
-		"deploy": "gh-pages -d dist"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxt/content": "^1.15.1",

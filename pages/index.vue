@@ -4,6 +4,7 @@
     <BoxInfo />
     <BoxDescription />
     <CourseBox />
+    <NoteClose />
     <ToTop />
   </div>
 </template>
@@ -13,8 +14,8 @@ import HeaderHome from '~/components/Home/header/HeaderHome.vue'
 import BoxInfo from '../components/Home/main/BoxInfo.vue'
 import BoxDescription from '../components/Home/main/BoxDescription.vue'
 import CourseBox from '../components/Home/main/CourseBox.vue'
+import NoteClose from '~/components/Home/main/NoteClose.vue'
 import ToTop from '~/components/ToTop.vue'
-
 
 export default {
   components:{
@@ -22,6 +23,7 @@ export default {
     BoxInfo,
     BoxDescription,
     CourseBox,
+    NoteClose,
     ToTop
 },
   head(){
@@ -31,3 +33,11 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+  .note{
+    width:280px;
+    margin: 20px auto;
+    text-align: center;
+  }
+</style>
