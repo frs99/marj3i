@@ -26,21 +26,21 @@
       <AddCourse 
         link ="https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r662/#%D9%85%D8%A7-%D8%B9%D9%84%D9%8A%D9%83-%D9%85%D8%B9%D8%B1%D9%81%D8%AA%D9%87-%D9%84%D8%AA%D8%B5%D8%A8%D8%AD-%D9%85%D8%A8%D8%B1%D9%85%D8%AC%D8%A7"
         img="hsoub.webp"
-        title="ما عليك معرفته لتصبح مبرمجًا"
+        title="ما عليك معرفته"
         type="file"
         :top=false
       />
       <AddCourse 
         link ="https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r662/#%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D8%A7%D8%B2%D9%85%D8%A9-%D9%84%D9%84%D8%A8%D8%AF%D8%A1-%D9%81%D9%8A-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9"
         img="hsoub.webp"
-        title="الأدوات اللازمة للبدء في تعلم البرمجة"
+        title="الأدوات اللازمة"
         type="file"
         :top=false
       />
       <AddCourse 
         link ="https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r662/#%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%87%D9%86%D8%A7%D9%83-%D8%A7%D9%84%D8%B9%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D9%84%D8%BA%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%D8%9F"
         img="hsoub.webp"
-        title="لماذا هناك العديد من لغات البرمجة؟"
+        title="كثرة لغات البرمجة"
         type="file"
         :top=false
       />
@@ -75,7 +75,7 @@
       <AddCourse 
         link ="https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r662/#%D8%AA%D8%B9%D9%84%D9%85-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%84"
         img="hsoub.webp"
-        title="تعلم تطوير تطبيقات الجوال"
+        title="تطوير تطبيقات الجوال"
         type="file"
         :top=false
       />
@@ -96,14 +96,14 @@
       <AddCourse 
         link ="https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r662/#%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%B3%D8%B7%D8%AD-%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8"
         img="hsoub.webp"
-        title="تطوير تطبيقات سطح المكتب"
+        title="تطوير سطح المكتب"
         type="file"
         :top=false
       />
       <AddCourse 
         link ="https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r662/#%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D9%86%D8%A7%D8%B3%D8%A8%D9%83"
         img="hsoub.webp"
-        title="كيفية اختيار لغة البرمجة التي تناسبك"
+        title="اختيار لغة البرمجة"
         type="file"
         :top=false
       />

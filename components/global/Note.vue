@@ -6,3 +6,9 @@
     </div>
   </div>
 </template>
+
+<style>
+  .note p{
+    text-align: right;
+  }
+</style>

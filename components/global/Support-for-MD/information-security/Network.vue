@@ -6,7 +6,7 @@
     />
     <div class="all-crs">
       <AddCourse 
-        link ="https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd"
+        link ="https://www.youtube.com/playlist?list=PLCBJ6FzVTy-DpIld56JdKtmhSHSMj0g75"
         img="youtube.jpg"
         title="دورة Network"
         type="play"

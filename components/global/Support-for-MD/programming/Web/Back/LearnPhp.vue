@@ -6,16 +6,9 @@
     />
     <div class="all-crs">
       <AddCourse 
-        link ="https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM"
+        link ="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq"
         img="elzero.jpg"
-        title="1 - دورة PHP الإصدار الخامس"
-        type="play"
-        :top="true"
-      />
-      <AddCourse 
-        link="https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ"
-        img="elzero.jpg"
-        title="2 - تعلم مباديء ال OOP"
+        title="مخيم التعلم من الزيرو PHP8"
         type="play"
         :top="true"
       />
