@@ -4,7 +4,7 @@
     <BoxInfo />
     <BoxDescription />
     <CourseBox />
-    <!-- <NoteClose /> -->
+    <NoteClose />
     <ToTop />
   </div>
 </template>
