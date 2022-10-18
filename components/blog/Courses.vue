@@ -1,7 +1,7 @@
 <template>
   <article>
       <div class="course-img course-color1">
-        <img :src=img>
+        <img :src="require('~/assets/img/' + img)">
       </div>
       <div class="course-info">
         <h1>{{title}}</h1>
