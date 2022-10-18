@@ -20,12 +20,12 @@ export default {
       { name:'apple-mobile-web-app-status-bar-style', content:'#33313b' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&display=swap' }
     ],
     script: [
       { src: 'https://kit.fontawesome.com/1a4bb73a43.js', crossorigin: 'anonymous' },
-      { src: '/assets/js/min.js', async: true, defer: true },
+      { src: 'assets/js/min.js', async: true, defer: true },
 
     ]
   },
