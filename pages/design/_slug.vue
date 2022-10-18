@@ -28,21 +28,21 @@
         <h1 class="more">تصفح المزيد</h1>
         <div class="all_courses">
           <Courses 
-            img="/assets/img/course-img1.png"
+            img="course-img1.png"
             title="تعلم البرمجة"
             info="تعريف بالبرمجة ومجالاتها مع خطة تعلم احترافية لكل مجال محدثة باستمرار."
             link="/programming/tracks/"
             nameBtn="تصفح المسارات"
           />
           <Courses 
-            img="/assets/img/course-img2.png"
+            img="course-img2.png"
             title="الأمن المعلوماتي"
             info="تعريف و اهم المراحل للاحتراف في الشبكات و الامن المعلوماتي"
             link="/information-security/start/"
             nameBtn="تصفح المراحل"
           />
           <Courses 
-            img="/assets/img/course-img4.png"
+            img="course-img4.png"
             title="التصميم"
             info="مفهوم التصميم و تعريف بكل مجال منه و البرامج"
             link="/design/start/"
