@@ -14,7 +14,7 @@
     <ul>
       <h1>الموقع</h1>
       <li><a href="https://github.com/frs99/marj3i#readme">حول الموقع</a></li>
-      <li><a href="https://github.com/frs99/marj3i#readme">السياسة و الخصوصية</a></li>
+      <li><a href="/googleplay/privacy/">السياسة و الخصوصية</a></li>
       <li><a href="https://github.com/frs99/marj3i#readme">للدعم او التطوير</a></li>
       <li><a href="mailto:frscodes@gmail.com">اتصل بنا</a></li>
     </ul>
