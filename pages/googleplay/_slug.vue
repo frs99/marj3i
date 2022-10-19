@@ -12,7 +12,7 @@
             <ul>
               <h1>Privacy for apps</h1>
               <li v-for="link of info.toc" :key="link.id">
-                <a :href="`${info.path}/#${link.id}`">{{ link.text }}</a>
+                <a :href="`/marj3i${info.path}/#${link.id}`">{{ link.text }}</a>
               </li>
             </ul>
           </nav>
@@ -34,7 +34,7 @@ import ToTop from '~/components/ToTop.vue'
 
 export default {
   async asyncData ({ $content, params }) {
-    const info = await $content('privacy', params.slug).fetch()
+    const info = await $content('googleplay', params.slug).fetch()
     return {
       info
     }
