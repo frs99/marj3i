@@ -13,17 +13,17 @@
     </ul>
     <ul>
       <h1>الموقع</h1>
-      <li><a href="https://github.com/marj3i/marj3i.github.io/blob/main/README.md">حول الموقع</a></li>
-      <li><a href="https://github.com/marj3i/marj3i.github.io/blob/main/README.md">السياسة و الخصوصية</a></li>
-      <li><a href="https://github.com/marj3i/marj3i.github.io/blob/main/README.md">للدعم او التطوير</a></li>
+      <li><a href="https://github.com/frs99/marj3i#readme">حول الموقع</a></li>
+      <li><a href="https://github.com/frs99/marj3i#readme">السياسة و الخصوصية</a></li>
+      <li><a href="https://github.com/frs99/marj3i#readme">للدعم او التطوير</a></li>
       <li><a href="mailto:frscodes@gmail.com">اتصل بنا</a></li>
     </ul>
 
     <ul class="">
       <h1>تابعنا:</h1>
-      <li><a class="fb" href="https://github.com/marj3i"><i class="fab fa-github-square" aria-hidden="true"></i>جيتهاب</a></li>
+      <li><a class="fb" href="https://github.com/frs99/marj3i/"><i class="fab fa-github-square" aria-hidden="true"></i>جيتهاب</a></li>
       <li><a class="fb" href="https://twitter.com/frscodes/"><i class="fab fa-twitter-square" aria-hidden="true"></i>تويتر</a></li>
-      <li><a class="fb" href="https://t.me/marj3i/"><i class="fab fa-telegram" aria-hidden="true"></i>تلغرام</a></li>
+      <li><a class="fb" href="#"><i class="fab fa-telegram" aria-hidden="true"></i>تلغرام</a></li>
       <li><a class="fb" href="https://www.facebook.com/marj3i/"><i class="fab fa-facebook-square" aria-hidden="true"></i>فيسبوك</a></li>
     </ul>
   </section>
