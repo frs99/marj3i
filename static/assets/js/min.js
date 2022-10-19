@@ -22,7 +22,7 @@ function navbar() {
 //LINK FOR LOGO
 document.querySelector(".logo").style.cursor = "pointer";
 document.querySelector(".logo").onclick = () => {
-  window.location.href = "/";
+  window.location.href = "/marj3i/";
 };
 
 

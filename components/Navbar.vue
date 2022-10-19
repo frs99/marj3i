@@ -8,13 +8,13 @@
         <nav>
           <ul class="headerList">
               <li>
-                <a href="/">الرئيسية</a>
+                <a href="/marj3i">الرئيسية</a>
               </li>
               <li>
-                <a href="/#info2">مانقدمه</a>
+                <a href="/marj3i/#info2">مانقدمه</a>
               </li>
               <li>
-                <a href="https://github.com/marj3i/marj3i.github.io/blob/main/README.md">من نحن</a>
+                <a href="https://github.com/frs99/marj3i#readme">من نحن</a>
               </li>
           </ul>
         </nav>
